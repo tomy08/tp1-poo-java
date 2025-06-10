@@ -44,22 +44,22 @@
     Fahrenheit a Celsius: C=(F−32)×5/9  
     Celsius a Fahrenheit: F=C×9/5+32
 
-14. • Secuencia Fibonacci: Pide al usuario un número N. Genera y muestra los primeros N  
+14. Secuencia Fibonacci: Pide al usuario un número N. Genera y muestra los primeros N  
     términos de la secuencia de Fibonacci. (La secuencia comienza con 0 y 1, y cada término  
     subsiguiente es la suma de los dos anteriores: 0, 1, 1, 2, 3, 5, 8, ...).
 
-15. • Cajero Automático Básico: Simula un cajero automático muy simple. El usuario inicia con  
+15. Cajero Automático Básico: Simula un cajero automático muy simple. El usuario inicia con  
     un saldo inicial (por ejemplo, $1000). Permítele realizar operaciones de depósito, retiro y  
     consulta de saldo. Valida que no se pueda retirar más dinero del que hay disponible.
 
-16. • Clasificación de un Triángulo: Pide al usuario las longitudes de los tres lados de un  
+16. Clasificación de un Triángulo: Pide al usuario las longitudes de los tres lados de un  
     triángulo. Determina y muestra si el triángulo es equilátero (todos los lados iguales), isósceles  
     (dos lados iguales) o escaleno (todos los lados diferentes).
 
-17. • Contador de Palabras: Solicita al usuario una frase. Cuenta y muestra el número de palabras  
+17. Contador de Palabras: Solicita al usuario una frase. Cuenta y muestra el número de palabras  
     en la frase. Considera que las palabras están separadas por espacios.
 
-18. • Patrón de Asteriscos: Pide al usuario un número N. Genera y muestra un patrón de  
+18. Patrón de Asteriscos: Pide al usuario un número N. Genera y muestra un patrón de  
     asteriscos en forma de triángulo (o pirámide) de N filas. Por ejemplo, si N es 4:  
     \*  
     \*\*  
